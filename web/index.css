@@ -1,0 +1,44 @@
+.New-realses{
+    display: flex;
+    font-family: bold;
+    height:300px;
+    margin-right:80%;
+}
+.smallbutton{
+    height: 300px;
+    border: 1px solid black;
+    padding-right:25%
+}
+.first-block-movies{
+    justify-self:space evenly;
+}
+body{
+    background-color: #141414;
+}
+*{
+    margin:0;
+    color: blanchedalmond;
+}
+.text{
+    font-size: 19.26px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif
+}
+.movie-transform{
+    transition: all 0.5s;
+}
+.movie-transform:hover{
+    transform: scale(1.5);
+}
+.Footer-fonts{
+    font-size: small;
+    height:30px;
+    width:90.32px;
+    border: 1px solid #141414;
+}
+.Footer-fonts:hover{
+    height:35px;
+    width:90.32px;
+    border: 2px solid white;
+}
+
